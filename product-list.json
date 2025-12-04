@@ -1,0 +1,29 @@
+{
+    "config_url": "https://bigtreetech-beta.github.io/BWL",
+    "product_list": [
+        {
+            "uuid": "n-board-octopus-maxez-v1",
+            "name": "Octopus MAXEZ",
+            "description": {
+                "en-us": "Octopus MAX EZ, a 32 bit motherboard, is an upgraded version of Octopus Pro",
+                "zh-cn": "Octopus MAX EZ是一款32位主板，是Octopus Pro的升级版本。"
+            },
+            "redirectUrl": {
+                "en-us": "https://bigtreetech.github.io/docs/Octopus%20MAX%20EZ.html",
+                "zh-cn": "https://bigtreetech.github.io/docs/zh/Octopus%20MAX%20EZ.html"
+            }
+        },
+        {
+            "uuid": "n-board-octopus-pro-v1",
+            "name": "Octopus Pro",
+            "description": {
+                "en-us": "BIGTREETECH Octopus-pro V1.0 is a powerful and feature rich, 3D printer motherboard that supports up to 8 60V stepper drivers",
+                "zh-cn": "BIGTREETECH Octopus-pro V1.0是一款功能强大且特性丰富的3D打印机主板，支持多达8个60V步进电机驱动器。"
+            },
+            "redirectUrl": {
+                "en-us": "https://bigtreetech.github.io/docs/Octopus%20Pro.html",
+                "zh-cn": "https://bigtreetech.github.io/docs/zh/Octopus%20Pro.html"
+            }
+        }
+    ]
+}
