@@ -192,9 +192,7 @@
                 i18n_open_product_page = i18nTexts.open_product_page || i18n_open_product_page_fallback;
 
                 // load product when i18n load
-                // return fetch("product-list.json").then(res => {
-                //fetch from release file 
-                return fetch("https://github.com/bigtreetech-beta/bttwiki-qr-registry/releases/latest/download/product-list.json").then(res => {
+                return fetch("product-list.json").then(res => {
                     if (!res.ok) {
                         throw new Error("Failed to load product-list.json");
                     }
