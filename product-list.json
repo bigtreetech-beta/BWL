@@ -2,18 +2,6 @@
     "config_url": "https://link.bttwiki.com",
     "product_list": [
         {
-            "uuid": "n-iot-panda-alarm-v1",
-            "name": "Panda Alarm",
-            "description": {
-                "en-us": "Panda Alarm is a wireless monitoring system that synchronizes your 3D printing farm. It provides immediate, at-a-glance status updates for P-series printers through synchronized RGB lighting and customizable audio alerts.",
-                "zh-cn": "Panda Alarm 让您的 3D 打印农场保持完美同步——这款智能无线系统可让您即时查看和听见打印机状态。它专为 P 系列打印机设计，结合了 H2D 同步 RGB 灯光和可自定义的声音警报，可实时通知您打印完成、打印失败或耗材耗尽。"
-            },
-            "redirectUrl": {
-                "en-us": "https://bigtreetech.github.io/docs/Panda_Alarm.html",
-                "zh-cn": "https://bigtreetech.github.io/docs/zh/Panda_Alarm.html"
-            }
-        },
-        {
             "uuid": "n-board-octopus-maxez-v1",
             "name": "Octopus MAXEZ",
             "description": {
@@ -38,15 +26,39 @@
             }
         },
         {
-            "uuid": "n-tool-panda-denair-v1",
-            "name": "Panda Den Air",
+            "uuid": "n-iot-panda-alarm-v1",
+            "name": "Panda Alarm",
             "description": {
-                "en-us": "Products for 3D printer users to collect waste and commonly used tools.",
-                "zh-cn": "用于3D打印机用户收集废料和常用工具的产品"
+                "en-us": "Panda Alarm is a wireless monitoring system that synchronizes your 3D printing farm. It provides immediate, at-a-glance status updates for P-series printers through synchronized RGB lighting and customizable audio alerts.",
+                "zh-cn": "Panda Alarm 让您的 3D 打印农场保持完美同步——这款智能无线系统可让您即时查看和听见打印机状态。它专为 P 系列打印机设计，结合了 H2D 同步 RGB 灯光和可自定义的声音警报，可实时通知您打印完成、打印失败或耗材耗尽。"
             },
             "redirectUrl": {
-                "en-us": "https://global.bttwiki.com",
-                "zh-cn": "https://global.bttwiki.com"
+                "en-us": "https://bigtreetech.github.io/docs/Panda_Alarm.html",
+                "zh-cn": "https://bigtreetech.github.io/docs/zh/Panda_Alarm.html"
+            }
+        },
+        {
+            "uuid": "n-board-iot-cb2lite-v1",
+            "name": "CB2 Lite",
+            "description": {
+                "en-us": "CB2 without EMMC, lite version  ",
+                "zh-cn": "不带 eMMC 的 CB2 轻量版"
+            },
+            "redirectUrl": {
+                "en-us": "",
+                "zh-cn": ""
+            }
+        },
+        {
+            "uuid": "n-board-iot-pi2lite-v1",
+            "name": "Pi2 Lite",
+            "description": {
+                "en-us": "PI2 without EMMC, lite version ",
+                "zh-cn": "不带 eMMC 的 PI2 轻量版"
+            },
+            "redirectUrl": {
+                "en-us": "",
+                "zh-cn": ""
             }
         },
         {
@@ -59,6 +71,90 @@
             "redirectUrl": {
                 "en-us": "https://bigtreetech.github.io/docs/Octopus.html",
                 "zh-cn": "https://bigtreetech.github.io/docs/zh/Octopus.html"
+            }
+        },
+        {
+            "uuid": "n-hardware-panda-status-v2",
+            "name": "Panda Status V2",
+            "description": {
+                "en-us": "Integrated printer status indicator light strip",
+                "zh-cn": "一体化设计的打印机状态显示灯条"
+            },
+            "redirectUrl": {
+                "en-us": "",
+                "zh-cn": ""
+            }
+        },
+        {
+            "uuid": "n-tool-panda-perch-v2",
+            "name": "Panda Perch V2",
+            "description": {
+                "en-us": "PX series printers top extension storage for AMS tools and accessories",
+                "zh-cn": "PX系列打印机顶部拓展收纳AMS工具配件"
+            },
+            "redirectUrl": {
+                "en-us": "",
+                "zh-cn": ""
+            }
+        },
+        {
+            "uuid": "n-board-panda-auraa1rgbw-v1",
+            "name": "Padna Aura A1 RGBW",
+            "description": {
+                "en-us": "A1 printer decorative light strip + printer status alarm",
+                "zh-cn": "A1打印机装饰灯条+打印机状态报警器"
+            },
+            "redirectUrl": {
+                "en-us": "",
+                "zh-cn": ""
+            }
+        },
+        {
+            "uuid": "n-accessories-sticker-snaphat-v1",
+            "name": "Snaphat",
+            "description": {
+                "en-us": "",
+                "zh-cn": ""
+            },
+            "redirectUrl": {
+                "en-us": "",
+                "zh-cn": ""
+            }
+        },
+        {
+            "uuid": "n-accessories-panda-breath-v1",
+            "name": "Panda Breath",
+            "description": {
+                "en-us": "Smart Chamber Heater",
+                "zh-cn": "智能仓温加热器"
+            },
+            "redirectUrl": {
+                "en-us": "https://global.bttwiki.com/Panda_Breath.html",
+                "zh-cn": ""
+            }
+        },
+        {
+            "uuid": "n-tool-panda-denair-v1",
+            "name": "Panda Den Air",
+            "description": {
+                "en-us": "Products for 3D printer users to collect waste and commonly used tools.",
+                "zh-cn": "用于3D打印机用户收集废料和常用工具的产品"
+            },
+            "redirectUrl": {
+                "en-us": "https://global.bttwiki.com",
+                "zh-cn": "https://global.bttwiki.com"
+            }
+        },
+        {
+            "uuid": "n-board-panda-auraa1plus-v1",
+            "name": "Panda Aura A1 Plus",
+            "description": {
+                "en-us": "A1 printer decorative light panel + decorative light strip + printer status alarm",
+                "zh-cn": "A1打印机装饰灯板+装饰灯条+打印机状态报警器"
+            },
+            "redirectUrl": {
+                "en-us": "",
+                "zh-cn": ""
             }
         },
         {
